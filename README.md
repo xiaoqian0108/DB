@@ -1,19 +1,18 @@
-# 112-1 資料庫系統
->授課教師：蔡芸琤老師
+# 112-1 DataBase System 資料庫系統
+> Teacher：蔡芸琤老師
+> Name：丁煦芊 
+> Department & Grade：TAHRD 114
 
 ## Contents
-* [基本資料](#基本資料)
-* [課程筆記區](#課程筆記區)
-* [作業連結區](#作業連結區)
-* [專題連結區](#專題連結區)
+* [Note](#Note)
+* [Homework](#Homework)
+* [Final Project](#Final Project)
 
 ## 基本資料
-> 姓名：丁煦芊
-> 
-> 系級：科技系三年級
 
-## 課程筆記區
 
-## 作業連結區
+## Note
 
-## 專題連結區
+## Homework
+
+## Final Project
