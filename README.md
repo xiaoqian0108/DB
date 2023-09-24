@@ -13,6 +13,6 @@
 ## Note
 
 ## Homework
-*[HW1-ERD with my tables](https://youtu.be/L2LuY34XqNQ)
+* [HW1-ERD with my tables](https://youtu.be/L2LuY34XqNQ)
 
 ## Final-Project
