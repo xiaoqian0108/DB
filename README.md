@@ -14,6 +14,6 @@
 
 ## Homework
 * [HW1-ERD with my tables](https://youtu.be/L2LuY34XqNQ)
-* ![ER design](ERD圖.png)
+ ![ER design](ERD圖.png)
 
 ## Final-Project
