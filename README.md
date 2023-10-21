@@ -16,5 +16,6 @@
 * [HW0-CRUD Tutorial (ReactJS, MySQL, NodeJS)](https://youtu.be/d7R-5fyi9g0)
 * [HW1-ERD with my tables](https://youtu.be/L2LuY34XqNQ)
  ![ER design](ERD圖.png)
+* [HW2-CRUD in Web App with My Table](https://youtu.be/CWgYBomYuLs)
 
 ## Final-Project
