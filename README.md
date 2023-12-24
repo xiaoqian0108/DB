@@ -18,5 +18,6 @@
  ![ER design](ERD圖.png)
 * [HW2-CRUD in Web App with My Table](https://youtu.be/CWgYBomYuLs)
 * [HW3-CRUD in NoSQL With MongoDB (from My Table)](https://youtu.be/gpgQMq8sswY)
+* [HW5-Depoly Web App to Azure](https://youtu.be/Ipn1iXUi6k4)
 
 ## Final-Project
